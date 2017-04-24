@@ -24,6 +24,7 @@ oh my zsh 의 theme를 변경할 수 있다.
 >cmd + , 터미널의 설정을 여는 단축키
 
 상단 Profiles 탭을 선택 후 하단의 설정을 통해 Import 를 선택.
+
 iTerm2에서 받은 파일의 하단 파일에 terminal-solarized dark를 선택.
 
 이후 터미널을 종류하고 다시 켜보면 깔끔하게 바뀐 것을 확인 할 수 있다.  
