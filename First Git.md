@@ -1,4 +1,4 @@
-#First Git
+# First Git
 
 ## git init
 
