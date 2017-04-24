@@ -22,4 +22,4 @@
 
 기타 명령어는 다음 그림을 따라 수행하자.
 
-/Users/youngminkim/Downloads/vi-vim-cheat-sheet-ko.png
+[vim명령어](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
