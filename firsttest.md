@@ -48,3 +48,6 @@ HEAD 에 반영하기 위한 과정(BUT github에 아직 반영되지 않음)
 ### git pull
 github로 부터 변경사항을 받아온다.
 > git pull 
+> 
+
+### 
